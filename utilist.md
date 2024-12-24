@@ -3,7 +3,7 @@
 |3fr|com.hasselblad.3fr-raw-image|||||||||
 |3g2|public.3gpp2|||||||||
 |3gp|public.3gpp|||||||||
-||3gp2|public.3gpp2|||||||||
+|3gp2|public.3gpp2|||||||||
 |3gpp|public.3gpp|||||||||
 |7z|org.7-zip.7-zip-archive|||||||||
 |8BPB|com.adobe.photoshop-large-image|||||||||
